@@ -1,0 +1,263 @@
+{
+  "base": [
+    {
+      "id": 31,
+      "name": "Abyz",
+      "type": 0,
+      "resource": 3,
+      "influence": 0,
+      "specialty": null
+    },
+    {
+      "id": 32,
+      "name": "Fria",
+      "type": 0,
+      "resource": 2,
+      "influence": 0,
+      "specialty": null
+    },
+    {
+      "id": 29,
+      "name": "Arinam",
+      "type": 1,
+      "resource": 1,
+      "influence": 2,
+      "specialty": null
+    },
+    {
+      "id": 30,
+      "name": "Meer",
+      "type": 0,
+      "resource": 0,
+      "influence": 4,
+      "specialty": 0
+    },
+    {
+      "id": 27,
+      "name": "Arnor",
+      "type": 1,
+      "resource": 1,
+      "influence": 2,
+      "specialty": null
+    },
+    {
+      "id": 28,
+      "name": "Lor",
+      "type": 1,
+      "resource": 2,
+      "influence": 1,
+      "specialty": null
+    },
+    {
+      "id": 25,
+      "name": "Bereg",
+      "type": 0,
+      "resource": 3,
+      "influence": 1,
+      "specialty": null
+    },
+    {
+      "id": 26,
+      "name": "Lirta IV",
+      "type": 0,
+      "resource": 2,
+      "influence": 3,
+      "specialty": null
+    },
+    {
+      "id": 23,
+      "name": "Centauri",
+      "type": 2,
+      "resource": 1,
+      "influence": 3,
+      "specialty": null
+    },
+    {
+      "id": 24,
+      "name": "Gral",
+      "type": 1,
+      "resource": 1,
+      "influence": 1,
+      "specialty": 1
+    },
+    {
+      "id": 21,
+      "name": "Corneeq",
+      "type": 2,
+      "resource": 1,
+      "influence": 2,
+      "specialty": null
+    },
+    {
+      "id": 22,
+      "name": "Resculon",
+      "type": 2,
+      "resource": 2,
+      "influence": 0,
+      "specialty": null
+    },
+    {
+      "id": 19,
+      "name": "Dal Bootha",
+      "type": 2,
+      "resource": 0,
+      "influence": 2,
+      "specialty": null
+    },
+    {
+      "id": 20,
+      "name": "Xxehan",
+      "type": 2,
+      "resource": 1,
+      "influence": 1,
+      "specialty": null
+    },
+    {
+      "id": 17,
+      "name": "Lazar",
+      "type": 1,
+      "resource": 1,
+      "influence": 0,
+      "specialty": 3
+    },
+    {
+      "id": 18,
+      "name": "Sakulag",
+      "type": 0,
+      "resource": 2,
+      "influence": 1,
+      "specialty": null
+    },
+    {
+      "id": 8,
+      "name": "Lodor",
+      "type": 2,
+      "resource": 3,
+      "influence": 1,
+      "specialty": null
+    },
+    {
+      "id": 6,
+      "name": "Mehar Xull",
+      "type": 0,
+      "resource": 1,
+      "influence": 3,
+      "specialty": 0
+    },
+    {
+      "id": 15,
+      "name": "Mellon",
+      "type": 2,
+      "resource": 0,
+      "influence": 2,
+      "specialty": null
+    },
+    {
+      "id": 16,
+      "name": "Zohbat",
+      "type": 0,
+      "resource": 3,
+      "influence": 1,
+      "specialty": null
+    },
+    {
+      "id": 9,
+      "name": "New Albion",
+      "type": 1,
+      "resource": 1,
+      "influence": 1,
+      "specialty": 2
+    },
+    {
+      "id": 10,
+      "name": "Startpoint",
+      "type": 0,
+      "resource": 3,
+      "influence": 1,
+      "specialty": null
+    },
+    {
+      "id": 7,
+      "name": "Quann",
+      "type": 2,
+      "resource": 2,
+      "influence": 1,
+      "specialty": null
+    },
+    {
+      "id": 13,
+      "name": "Qucen'n",
+      "type": 1,
+      "resource": 1,
+      "influence": 2,
+      "specialty": null
+    },
+    {
+      "id": 14,
+      "name": "Rarron",
+      "type": 2,
+      "resource": 0,
+      "influence": 3,
+      "specialty": null
+    },
+    {
+      "id": 5,
+      "name": "Saudor",
+      "type": 1,
+      "resource": 2,
+      "influence": 2,
+      "specialty": null
+    },
+    {
+      "id": 4,
+      "name": "Tar'Mann",
+      "type": 1,
+      "resource": 1,
+      "influence": 1,
+      "specialty": 2
+    },
+    {
+      "id": 11,
+      "name": "Tequ'ran",
+      "type": 0,
+      "resource": 2,
+      "influence": 0,
+      "specialty": null
+    },
+    {
+      "id": 12,
+      "name": "Torkan",
+      "type": 2,
+      "resource": 0,
+      "influence": 3,
+      "specialty": null
+    },
+    {
+      "id": 3,
+      "name": "Thibah",
+      "type": 1,
+      "resource": 1,
+      "influence": 1,
+      "specialty": 1
+    },
+    {
+      "id": 2,
+      "name": "Vefut II",
+      "type": 0,
+      "resource": 2,
+      "influence": 2,
+      "specialty": null
+    },
+    {
+      "id": 1,
+      "name": "Wellon",
+      "type": 1,
+      "resource": 1,
+      "influence": 2,
+      "specialty": 3
+    }
+  ],
+  "pok": [
+
+  ]
+}
